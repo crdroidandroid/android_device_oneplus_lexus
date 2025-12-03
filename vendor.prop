@@ -1,6 +1,9 @@
 # Bluetooth
 bluetooth.device.default_name=OnePlus Nord 5
 
+# Device name
+ro.product.marketname=OnePlus Nord 5
+
 # Graphics
 ro.surface_flinger.set_touch_timer_ms=200
 
